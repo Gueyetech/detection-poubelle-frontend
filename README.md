@@ -5,6 +5,11 @@ Interface web React pour la détection de poubelles pleines/vides.
 ##  Installation
 
 ```bash
+# Cloner le projet
+git clone https://github.com/Gueyetech/detection-poubelle-frontend.git
+cd detection-poubelle-frontend
+
+# Installer les dépendances
 npm install
 ```
 
